@@ -1,6 +1,6 @@
-Thanks for downloading this template!
+Thanks for visiting!
 
-Template Name: MyResume
-Template URL: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+itsCaria 
+Ms. Katherine M. Gollena
+
+contact me at: katherinegollena@gmail.com

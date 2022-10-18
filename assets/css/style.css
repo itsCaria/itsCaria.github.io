@@ -1,13 +1,5 @@
-/**
-* Template Name: MyResume - v4.9.2
-* Template URL: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
 
-/*--------------------------------------------------------------
-# General
---------------------------------------------------------------*/
+/* # General */
 body {
   font-family: "Open Sans", sans-serif;
   color: #272829;
@@ -32,9 +24,7 @@ h6 {
   font-family: "Raleway", sans-serif;
 }
 
-/*--------------------------------------------------------------
-# Back to top button
---------------------------------------------------------------*/
+/*# Back to top button*/
 .back-to-top {
   position: fixed;
   visibility: hidden;
@@ -65,9 +55,7 @@ h6 {
   opacity: 1;
 }
 
-/*--------------------------------------------------------------
-# Preloader
---------------------------------------------------------------*/
+/*# Preloader*/
 #preloader {
   position: fixed;
   top: 0;
@@ -114,18 +102,14 @@ h6 {
   }
 }
 
-/*--------------------------------------------------------------
-# Disable aos animation delay on mobile devices
---------------------------------------------------------------*/
+/*# Disable aos animation delay on mobile devices-*/
 @media screen and (max-width: 768px) {
   [data-aos-delay] {
     transition-delay: 0 !important;
   }
 }
 
-/*--------------------------------------------------------------
-# Header
---------------------------------------------------------------*/
+/*# Header*/
 #header {
   position: fixed;
   top: 0;
