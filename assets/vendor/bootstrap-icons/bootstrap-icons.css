@@ -409,7 +409,7 @@ url("./fonts/bootstrap-icons.woff?8d200481aa7f02a2d63a331fc782cfaf") format("wof
 .bi-chevron-down::before { content: "\f282"; }
 .bi-chevron-expand::before { content: "\f283"; }
 .bi-chevron-left::before { content: "\f284"; }
-.bi-chevron-right::before { content: "\f285"; }
+.bi-chevron-right::before { content: "\f285";  color: rgb(99, 50, 7); }
 .bi-chevron-up::before { content: "\f286"; }
 .bi-circle-fill::before { content: "\f287"; }
 .bi-circle-half::before { content: "\f288"; }
